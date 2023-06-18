@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/GovardhanV](https://www.linkedin.com/in/govardhan-v-ba916724a)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govardhanv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/GovardhanV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govardhanv" height="30" width="40" /></a>
 <a href="https://kaggle.com/Govardhanv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="govardhanv" height="30" width="40" /></a>
-<a href="[https://instagram.com/govardhan___v](https://instagram.com/govardhan____v?igshid=ZDc4ODBmNjlmNQ==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="govardhan___v" height="30" width="40" /></a>
-<a href="[https://medium.com/@Govardhan V](https://medium.com/@govardhanv)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@govardhanv" height="30" width="40" /></a>
+<a href="https://instagram.com/govardhan___v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="govardhan___v" height="30" width="40" /></a>
+<a href="https://medium.com/@Govardhan V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@govardhanv" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21241a0560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21241a0560" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/govardhan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="govardhan_1" height="30" width="40" /></a>
 </p>
