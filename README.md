@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govardhan211103&label=Profile%20views&color=0e75b6&style=flat" alt="govardhan211103" /> </p>
 
-- 🔭 I’m currently working on [Student_Performance_prediction](https://github.com/Govardhan211103/Student_performance_prediction)
+- 🔭 I’m currently working on [Student_Performance_prediction](https://github.com/Govardhan211103/SalesForecasting)
 
 - 🌱 I’m currently learning **DeepLearning**
 
