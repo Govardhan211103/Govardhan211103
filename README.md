@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govardhan211103&label=Profile%20views&color=0e75b6&style=flat" alt="govardhan211103" /> </p>
 
-- 🔭 I’m currently working on [Sales_Forecasting](https://github.com/Govardhan211103/SalesForecasting)
+- 🔭 I’m currently working on Data Version Control.
 
-- 🌱 I’m currently learning **DeepLearning**
+- 🌱 I’m currently learning **MLOps**
 
 - 📝 I regularly write articles on [https://medium.com/@govardhanv](https://medium.com/@govardhanv)
 
-- 💬 Ask me about **Machine Learning, Data Analysis, Python,**
+- 💬 Ask me about **Machine Learning, MLOps, Data Analysis, Python,**
 
 - 📫 How to reach me **vgovardhanvarma.vh@gmail.com**
-
-- 📄 Know about me [https://drive.google.com/file/d/1P42ZMigbGMTWxAcSXTQwVmsyDKYBewmH/view?usp=drivesdk](https://drive.google.com/file/d/1P42ZMigbGMTWxAcSXTQwVmsyDKYBewmH/view?usp=drivesdk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
